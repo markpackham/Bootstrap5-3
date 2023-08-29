@@ -1,2 +1,9 @@
+// Override Boostrap defaults
+$body-bg: #000;
+$primary: #ff4136;
+
+$h1-font-size: 7rem;
+$h2-font-size: 3rem;
+
 // Import all of Bootstrap's CSS
 @import "bootstrap/scss/bootstrap";
